@@ -12,11 +12,8 @@ function HomeScreen (props) {
             setProducts(data);
         }
         fetchData();
-        return () => {
-
-        };
+        return () => {};
     }, [])
-
 
     return  <ul class="products">
     {

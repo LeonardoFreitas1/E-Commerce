@@ -1,6 +1,5 @@
 {
   "name": "ecommerce",
-  "proxy":"http://172.17.0.2:80001",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
