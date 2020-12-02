@@ -5,7 +5,7 @@ export default  {
         category: 'Periféricos',
         description:'Fone de ouvido over-ear para jogos, com fio e um microfone removível.',
         image: '/images/fone.jpg',
-        quantity:12,
+        countInStock:12,
         price: 272.00,
         brand: 'JBL'
     },
@@ -15,7 +15,7 @@ export default  {
         category: 'Periféricos',
         description:'Teclado Mecânico T-dagger Bora Rgb Switch - T-tgk315-bl',
         image: '/images/teclado-mecanico-gamer-t-dagger-bora.jpg',
-        quantity:12,
+        countInStock:12,
         price: 198.55,
         brand: 'T-Dagger'
     },
@@ -27,7 +27,7 @@ export default  {
         ' Filmes, jogos e música ganham vida com imagens e som incríveis, trazidos pelos mais recentes processadores Intel® . A velocidade adaptável e a'
          +'capacidade de resposta fazem da segunda geração de processadores Intel Core i5 a opção ideal para um desempenho inteligente e visivelmente robusto.',
         image: '/images/notebook-dell.jpg',
-        quantity:12,
+        countInStock:12,
         price:  4.657,
         brand: 'Dell'
     },
@@ -37,7 +37,7 @@ export default  {
         category: 'PCs e Notebooks',
         description:'MacBook Air 13" Apple Intel Core i5 8GB RAM 128GB HD Prateado',
         image: '/images/mac-caro-dms.jpg',
-        quantity:12,
+        countInStock:12,
         price: 19.799,
         brand: 'Apple'
     }
